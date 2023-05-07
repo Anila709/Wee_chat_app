@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "411033480666",
+    "project_id": "weechat-caabb",
+    "storage_bucket": "weechat-caabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411033480666:android:e2acc51a0918b0500464e3",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411033480666-pmodqurpfcsfulck3g9btl58qe9h8it5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshRajpurohit.we_chat",
+            "certificate_hash": "00b626dab5d404ba3b9c3ccf53bed71077c3403c"
+          }
+        },
+        {
+          "client_id": "411033480666-0mv0jgrgc7b0vp76s8ojt8mgb1he9b60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBKZqrjFnaIeWYeFU-57W3__70oJKUkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411033480666-0mv0jgrgc7b0vp76s8ojt8mgb1he9b60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411033480666-abe4812pdihnbugkdrup7q890jhp7r54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
